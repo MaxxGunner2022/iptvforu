@@ -1,1 +1,1266 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>https://16live00.akamaized.net/A&amp;E/index.m3u8</location>
+			<title>A&amp;E </title>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/ABC_EAST/index.m3u8</location>
+			<title>ABC </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8</location>
+			<title>ABC 2 </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/AMC/HLS/index.m3u8</location>
+			<title>AMC </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/AMERICAN_HEROES_CHANNEL/index.m3u8</location>
+			<title>AMERICAN HEROES </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/ANIMAL_PLANET/index.m3u8</location>
+			<title>ANIMAL PLANET </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BBC_AMERICA/index.m3u8</location>
+			<title>BBC AMERICA </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BBC_NEWS/index.m3u8</location>
+			<title>BBC NEWS </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/COOKING_CHANNEL/index.m3u8</location>
+			<title>COOKING CHANNEL </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/CNBC/index.m3u8</location>
+			<title>CNBC </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/CNN/index.m3u8</location>
+			<title>CNN </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/HISTORY/index.m3u8</location>
+			<title>HISTORY </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/DISCOVERY_FAMILY/index.m3u8</location>
+			<title>DISCOVERY FAMILY </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/DISCOVERY_CHANNEL/index.m3u8</location>
+			<title>DISCOVERY CHANNEL </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/DISCOVERY_LIFE/index.m3u8</location>
+			<title>DISCOVERY LIFE </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/DISCOVERY_SCIENCE/index.m3u8</location>
+			<title>DISCOVERY SCIENCE </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/DIY/index.m3u8</location>
+			<title>DIY </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/FOOD_NETWORK/index.m3u8</location>
+			<title>FOOD NETWORK </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/FoxNews/HLS/index.m3u8</location>
+			<title>FOX NEWS </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/INVESTIGATION_DISCOVERY/index.m3u8</location>
+			<title>INVESTIGATION DISCOVERY </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/JUSTICE_CENTRAL/index.m3u8</location>
+			<title>JUSTICE CENTRAL </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/MSNBC/index.m3u8</location>
+			<title>MSNBC </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/NAT_GEO/index.m3u8</location>
+			<title>NAT GEO </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/NAT_GEO_WILD/index.m3u8</location>
+			<title>NAT GEO WILD </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/NBC_EAST/index.m3u8</location>
+			<title>NBC </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SKYNEWS/index.m3u8</location>
+			<title>SKY NEWS </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SKY_ARTS/index.m3u8</location>
+			<title>SKY ARTS </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SUNDANCE_TV/index.m3u8</location>
+			<title>SUNDANCE TV </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/VICELAND/index.m3u8</location>
+			<title>VICELAND </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/WE_TV/index.m3u8</location>
+			<title>WE TV </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<title>sports</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BEIN_SPORTSSD/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BTSPORTS1/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BTSPORTS2/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BTSPORTS3/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BRAVO/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/CBS_SPORTS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/ESPN/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/ESPN2/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/EUROSPORTS1/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/FOX/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/FOXSPORTS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/FOX_SPORTS2/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/FoxNews/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/NFL_NETWORK/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/NBA_TV/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SKYSPORTSCRICKET/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SKYSPORTSF1/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SKY_SPORTSMAIN/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SKYSPORTS_MIX/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SKYSPORTSRACES/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/Sportsmax2/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/UFC/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/WILLOW/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/WWE/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://raw.githubusercontent.com/MaxxGunner2022/iptvforu/main/cartoon</location>
+			<title>cartoon</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BOOMERANG/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/CARTOON_NETWORK/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/DISNEY_CHANNEL/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/DISNEY_JR/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/DISNEY_XD/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/NICKELODEON/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/NICK_JR/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/NICKTOONS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/PBS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/PBS_KIDS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/TBS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/UNIVERSAL_KIDS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://raw.githubusercontent.com/MaxxGunner2022/iptvforu/main/casual&amp;localGY</location>
+			<title>casual&amp;localGY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/E/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/E1/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/E2/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/E3/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/EPIX/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/EPIX_2/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/EPIX_DRIVEIN/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/EPIX_HITS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://gtv01.airlinktt.co/live/smil:NCN</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BET/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BET_HER/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BET_JAMS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/BRAVO/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/CBS_EAST/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/COLORS_18/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/COMEDY_CENTRAL/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/COZI_TV/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/CW/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/FUSE/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/GAME_SHOW_NETWORK/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/GRIT/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://bkm100.gttstreamtv.com/HJTV/HJTV.isml/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://bkm100.gttstreamtv.com/HGPTV/HGPTV.isml/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/HGTV/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/Lifetime/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/LIFETIME_MOVIE_NETWORK/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/MTV/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/MTV_CLASSIC/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/MTV_LIVE/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/OWN/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/POPTV/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SKY_ATLANTIC/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SKY_ONE/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/TLC/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/TNT/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/TRU_TV/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://bkm100.gttstreamtv.com/TVG/TVG.isml/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/TV_ONE/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/TV_LAND/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/USA_NETWORK/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/USA/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/VH1/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://raw.githubusercontent.com/MaxxGunner2022/iptvforu/main/premium</location>
+			<title>premium</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/CINEMAX/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/CINEMAX_MORE/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/CINEMAX_5/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/FX/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/FX_MOVIE/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/FXX/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/HBO/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/HBO_SIGNATURE/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/HBO_ZONE/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/HBO2/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/HBOFamily/HLS/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/HBOSignature/HLS/index.m3u8</location>
+			<duration>120120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.127.211.18/live/c2eds/MaxPrime/HLS/index.m3u8</location>
+			<duration>120120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/PARAMOUNT_NETWORK/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SHOWTIME/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SHOWTIME_EX/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SHOWTIME_FAMILY/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SHOWTIME_NEXT/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SONY_MOVIE_CHANNEL/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SKY_PREMIERE/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/START_TV/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/STARZ/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/STARZ_ACTION/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/STARZ_COMEDY/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/STARZ_ENCORE/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/STARZ_SUSPENSE/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/STARZ_KIDS_AND_FAMILY/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/SYFY/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://raw.githubusercontent.com/MaxxGunner2022/iptvforu/main/indi</location>
+			<title>indi</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/AL_JAZEERA/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/ZEE_CINEMA/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://16live00.akamaized.net/ZEE_TV/index.m3u8</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+		<vlc:item tid="93"/>
+		<vlc:item tid="94"/>
+		<vlc:item tid="95"/>
+		<vlc:item tid="96"/>
+		<vlc:item tid="97"/>
+		<vlc:item tid="98"/>
+		<vlc:item tid="99"/>
+		<vlc:item tid="100"/>
+		<vlc:item tid="101"/>
+		<vlc:item tid="102"/>
+		<vlc:item tid="103"/>
+		<vlc:item tid="104"/>
+		<vlc:item tid="105"/>
+		<vlc:item tid="106"/>
+		<vlc:item tid="107"/>
+		<vlc:item tid="108"/>
+		<vlc:item tid="109"/>
+		<vlc:item tid="110"/>
+		<vlc:item tid="111"/>
+		<vlc:item tid="112"/>
+		<vlc:item tid="113"/>
+		<vlc:item tid="114"/>
+		<vlc:item tid="115"/>
+		<vlc:item tid="116"/>
+		<vlc:item tid="117"/>
+		<vlc:item tid="118"/>
+		<vlc:item tid="119"/>
+		<vlc:item tid="120"/>
+		<vlc:item tid="121"/>
+		<vlc:item tid="122"/>
+		<vlc:item tid="123"/>
+		<vlc:item tid="124"/>
+		<vlc:item tid="125"/>
+		<vlc:item tid="126"/>
+		<vlc:item tid="127"/>
+		<vlc:item tid="128"/>
+		<vlc:item tid="129"/>
+		<vlc:item tid="130"/>
+		<vlc:item tid="131"/>
+		<vlc:item tid="132"/>
+		<vlc:item tid="133"/>
+		<vlc:item tid="134"/>
+		<vlc:item tid="135"/>
+		<vlc:item tid="136"/>
+		<vlc:item tid="137"/>
+		<vlc:item tid="138"/>
+		<vlc:item tid="139"/>
+		<vlc:item tid="140"/>
+		<vlc:item tid="141"/>
+		<vlc:item tid="142"/>
+		<vlc:item tid="143"/>
+		<vlc:item tid="144"/>
+		<vlc:item tid="145"/>
+		<vlc:item tid="146"/>
+		<vlc:item tid="147"/>
+		<vlc:item tid="148"/>
+		<vlc:item tid="149"/>
+		<vlc:item tid="150"/>
+		<vlc:item tid="151"/>
+		<vlc:item tid="152"/>
+		<vlc:item tid="153"/>
+	</extension>
+</playlist>
