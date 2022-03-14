@@ -302,6 +302,8 @@ https://16live00.akamaized.net/SYFY/index.m3u8
 #EXTINF:0,indi START
 #EXTINF:0,AL JAZEERA 
 https://16live00.akamaized.net/AL_JAZEERA/index.m3u8
+#EXTINF:0,ZEE CINEMA
 https://16live00.akamaized.net/ZEE_CINEMA/index.m3u8
+#EXTINF:0,ZEE TV
 https://16live00.akamaized.net/ZEE_TV/index.m3u8
 #EXTINF:0,indi END
