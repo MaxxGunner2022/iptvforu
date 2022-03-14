@@ -1,7 +1,523 @@
-https://16live00.akamaized.net/A&amp;E/index.m3u8
-<title>A&amp;E </title>
+#EXTM3U
+#EXTINF:32,A&E 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/A&E/index.m3u8
+#EXTINF:0,ABC 
+#EXTVLCOPT:network-caching=3000
 https://16live00.akamaized.net/ABC_EAST/index.m3u8
+#EXTINF:0,ABC 2 
+#EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8
-<title>ABC 2 </title>
-		
-	
+#EXTINF:0,AL JAZEERA 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/AL_JAZEERA/index.m3u8
+#EXTINF:0,AMC 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/AMC/index.m3u8
+#EXTINF:0,AMC 2 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/AMC/HLS/index.m3u8
+#EXTINF:0,AMERICAN HEROES CHANNEL 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/AMERICAN_HEROES_CHANNEL/index.m3u8
+#EXTINF:0,ANIMAL PLANET 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/ANIMAL_PLANET/index.m3u8
+#EXTINF:0,BBC AMERICA 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BBC_AMERICA/index.m3u8
+#EXTINF:0,BBC NEWS 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BBC_NEWS/index.m3u8
+#EXTINF:0,BEIN SPORTS HD 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BEIN_SPORTSSD/index.m3u8
+#EXTINF:0,BET 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BET/index.m3u8
+#EXTINF:0,BET HER 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BET_HER/index.m3u8
+#EXTINF:0,BET JAMS 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BET_JAMS/index.m3u8
+#EXTINF:0,BOOMERANG 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BOOMERANG/index.m3u8
+#EXTINF:0,BOUNCE TV 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BOUNCE_TV/index.m3u8
+#EXTINF:0,BRAVO 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BRAVO/index.m3u8
+#EXTINF:0,BT SPORT1 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BTSPORTS1/index.m3u8
+#EXTINF:0,BT SPORT2 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BTSPORTS2/index.m3u8
+#EXTINF:0,BT SPORT3 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BTSPORTS3/index.m3u8
+#EXTINF:0,BT SPORTS ESPN 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
+#EXTINF:0,CARTOON NETWORK 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/CARTOON_NETWORK/index.m3u8
+#EXTINF:0,CBS 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/CBS_EAST/index.m3u8
+#EXTINF:0,CBS SPORTS NETWORK 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/CBS_SPORTS/index.m3u8
+#EXTINF:0,CINEMAX 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/CINEMAX/index.m3u8
+#EXTINF:0,CINEMAX 5STAR 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/CINEMAX_5/index.m3u8
+#EXTINF:0,CINEMAX MOREMAX 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/CINEMAX_MORE/index.m3u8
+#EXTINF:0,CNBC 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/CNBC/index.m3u8
+#EXTINF:0,CNN 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/CNN/index.m3u8
+#EXTINF:0,COLORS 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/COLORS/index.m3u8
+#EXTINF:0,COLORS AAPKA 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/COLORS_AAPKA/index.m3u8
+#EXTINF:0,COLORS HD 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/COLORS_18/index.m3u8
+#EXTINF:0,COMEDY CENTRAL 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/COMEDY_CENTRAL/index.m3u8
+#EXTINF:0,COMET 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/COMET/index.m3u8
+#EXTINF:0,COOKING CHANNEL 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/COOKING_CHANNEL/index.m3u8
+#EXTINF:0,COZI TV 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/COZI_TV/index.m3u8
+#EXTINF:0,CW 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/CW/index.m3u8
+#EXTINF:0,DESTINATION AMERICA 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/DESTINATION_AMERICA/index.m3u8
+#EXTINF:0,DISCOVERY CHANNEL 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:0,DISCOVERY FAMILY 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/DISCOVERY_FAMILY/index.m3u8
+#EXTINF:0,DISCOVERY LIFE 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/DISCOVERY_LIFE/index.m3u8
+#EXTINF:0,DISCOVERY SCIENCE 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/DISCOVERY_SCIENCE/index.m3u8
+#EXTINF:0,DISCOVERY TURBO 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/DISCOVERY_TURBO/index.m3u8
+#EXTINF:0,DISCOVERY VELOCITY 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/DISCOVERY_VELOCITY/index.m3u8
+#EXTINF:0,DISNEY CHANNEL 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/DISNEY_CHANNEL/index.m3u8
+#EXTINF:0,DISNEY JR 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/DISNEY_JR/index.m3u8
+#EXTINF:0,DISNEY XD 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/DISNEY_XD/index.m3u8
+#EXTINF:0,DIY 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/DIY/index.m3u8
+#EXTINF:0,E! 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/E/index.m3u8
+#EXTINF:0,E1 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/E1/HLS/index.m3u8
+#EXTINF:0,E2 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/E2/HLS/index.m3u8
+#EXTINF:0,E3 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/E3/HLS/index.m3u8
+#EXTINF:0,EPIX 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/EPIX/index.m3u8
+#EXTINF:0,EPIX 2 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/EPIX_2/index.m3u8
+#EXTINF:0,EPIX DRIVE IN 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/EPIX_DRIVEIN/index.m3u8
+#EXTINF:0,EPIX_HITS 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/EPIX_HITS/index.m3u8
+#EXTINF:0,ESPN 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/ESPN/index.m3u8
+#EXTINF:0,ESPN 2 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/ESPN2/index.m3u8
+#EXTINF:0,ESPN1 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/ESPN1/HLS/index.m3u8
+#EXTINF:0,ESPN1USA 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
+#EXTINF:0,ESPN2 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/ESPN2/HLS/index.m3u8
+#EXTINF:0,ESPN2USA 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
+#EXTINF:0,EUROSPORTS 1 HD 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/EUROSPORTS1/index.m3u8
+#EXTINF:0,FLOWSPORTS1 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
+#EXTINF:0,FOOD NETWORK 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/FOOD_NETWORK/index.m3u8
+#EXTINF:0,FOX 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/FOX/HLS/index.m3u8
+#EXTINF:0,FOX SPORTS 1 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/FOXSPORTS/index.m3u8
+#EXTINF:0,FOX SPORTS 2 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/FOX_SPORTS2/index.m3u8
+#EXTINF:0,FOXNEWS 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/FoxNews/HLS/index.m3u8
+#EXTINF:0,FOXSPORTS1 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8
+#EXTINF:0,FOXSPORTS2 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/FoxSports2/HLS/index.m3u8
+#EXTINF:0,FREEFORM 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/FREEFORM/index.m3u8
+#EXTINF:0,FUSE 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/FUSE/index.m3u8
+#EXTINF:0,FX 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/FX/index.m3u8
+#EXTINF:0,FX MOVIES 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/FX_MOVIE/index.m3u8
+#EXTINF:0,FXX 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/FXX/index.m3u8
+#EXTINF:0,GALAVISION 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/GALAVISION/index.m3u8
+#EXTINF:0,GAME SHOW NETWORK 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/GAME_SHOW_NETWORK/index.m3u8
+#EXTINF:0,GRIT 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/GRIT/index.m3u8
+#EXTINF:0,HALLMARK CHANNEL 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:0,HALLMARK DRAMA 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/HALLMARK_DRAMA/index.m3u8
+#EXTINF:0,HALLMARK MOVIES & MYSTERIES 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/HALLMARK_MOVIES/index.m3u8
+#EXTINF:0,HBO 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/HBO/index.m3u8
+#EXTINF:0,HBO SIGNATURE 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/HBO_SIGNATURE/index.m3u8
+#EXTINF:0,HBO ZONE 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/HBO_ZONE/index.m3u8
+#EXTINF:0,HBO2 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/HBO2/index.m3u8
+#EXTINF:0,HBOFAMILY 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/HBOFamily/HLS/index.m3u8
+#EXTINF:0,HBOSIGNATURE 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/HBOSignature/HLS/index.m3u8
+#EXTINF:0,HGPTV 
+#EXTVLCOPT:network-caching=3000
+http://bkm100.gttstreamtv.com/HGPTV/HGPTV.isml/index.m3u8
+#EXTINF:0,HGTV 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/HGTV/index.m3u8
+#EXTINF:0,HISTORY 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/HISTORY/index.m3u8
+#EXTINF:0,HJTV 
+#EXTVLCOPT:network-caching=3000
+http://bkm100.gttstreamtv.com/HJTV/HJTV.isml/index.m3u8
+#EXTINF:0,INVESTIGATION DISCOVERY 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:0,JUSTICE CENTRAL 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/JUSTICE_CENTRAL/index.m3u8
+#EXTINF:0,LIFETIME 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/Lifetime/HLS/index.m3u8
+#EXTINF:0,LIFETIME MOVIE NETWORK 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:0,MAXPRIME 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/MaxPrime/HLS/index.m3u8
+#EXTINF:0,ME TV 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/ME_TV_EAST/index.m3u8
+#EXTINF:0,MSNBC 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/MSNBC/index.m3u8
+#EXTINF:0,MTV 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/MTV/index.m3u8
+#EXTINF:0,MTV CLASSIC 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/MTV_CLASSIC/index.m3u8
+#EXTINF:0,MTV LIVE 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/MTV_LIVE/index.m3u8
+#EXTINF:0,MUSIC INDIA 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/MUSIC_INDIA/index.m3u8
+#EXTINF:0,NAT GEO 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/NAT_GEO/index.m3u8
+#EXTINF:0,NAT GEO WILD 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/NAT_GEO_WILD/index.m3u8
+#EXTINF:0,NBA TV 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/NBA_TV/index.m3u8
+#EXTINF:0,NBC 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/NBC_EAST/index.m3u8
+#EXTINF:0,NCN GUYANA 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:NCN
+#EXTINF:0,NFL NETWORK 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/NFL_NETWORK/index.m3u8
+#EXTINF:0,NICK JR 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/NICK_JR/index.m3u8
+#EXTINF:0,NICKELODEON 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/NICKELODEON/index.m3u8
+#EXTINF:0,NICKTOONS 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/NICKTOONS/index.m3u8
+#EXTINF:0,OWN 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/OWN/index.m3u8
+#EXTINF:0,OXYGEN 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/OXYGEN/index.m3u8
+#EXTINF:0,PARAMOUNT NETWORK 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0,PBS 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/PBS/index.m3u8
+#EXTINF:0,PBS KIDS 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/PBS_KIDS/index.m3u8
+#EXTINF:0,POP TV 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/POPTV/index.m3u8
+#EXTINF:0,PRO SPORTS 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:PRO
+#EXTINF:0,RUSHHD 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+#EXTINF:0,SHOWTIME 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SHOWTIME/index.m3u8
+#EXTINF:0,SHOWTIME EXTREME 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SHOWTIME_EX/index.m3u8
+#EXTINF:0,SHOWTIME FAMILY 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SHOWTIME_FAMILY/index.m3u8
+#EXTINF:0,SHOWTIME NEXT 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SHOWTIME_NEXT/index.m3u8
+#EXTINF:0,SKY ARTS 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SKY_ARTS/index.m3u8
+#EXTINF:0,SKY ATLANTIC 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SKY_ATLANTIC/index.m3u8
+#EXTINF:0,SKY CINEMA PREMIERE 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SKY_PREMIERE/index.m3u8
+#EXTINF:0,SKY NEWS 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SKYNEWS/index.m3u8
+#EXTINF:0,SKY ONE 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SKY_ONE/index.m3u8
+#EXTINF:0,SKY SPORTS CRICKET 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SKYSPORTSCRICKET/index.m3u8
+#EXTINF:0,SKY SPORTS F1 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SKYSPORTSF1/index.m3u8
+#EXTINF:0,SKY SPORTS FOOTBALL 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8
+#EXTINF:0,SKY SPORTS MAIN 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SKY_SPORTSMAIN/index.m3u8
+#EXTINF:0,SKY SPORTS MIX 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SKYSPORTS_MIX/index.m3u8
+#EXTINF:0,SKY SPORTS RACING 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SKYSPORTSRACES/index.m3u8
+#EXTINF:0,SMITHSONIAN CHANNEL 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:0,SONY MOVIE CHANNEL 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SONY_MOVIE_CHANNEL/index.m3u8
+#EXTINF:0,SPORTSMAX1 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
+#EXTINF:0,SPORTSMAX2 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/Sportsmax2/HLS/index.m3u8
+#EXTINF:0,START TV 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/START_TV/index.m3u8
+#EXTINF:0,STARZ 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/STARZ/index.m3u8
+#EXTINF:0,STARZ ACTION 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/STARZ_ACTION/index.m3u8
+#EXTINF:0,STARZ COMEDY 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/STARZ_COMEDY/index.m3u8
+#EXTINF:0,STARZ ENCORE 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/STARZ_ENCORE/index.m3u8
+#EXTINF:0,STARZ ENCORE SUSPENSE 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/STARZ_SUSPENSE/index.m3u8
+#EXTINF:0,STARZ FAMILY 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/STARZ_KIDS_AND_FAMILY/index.m3u8
+#EXTINF:0,SUNDANCE TV 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SUNDANCE_TV/index.m3u8
+#EXTINF:0,SYFY 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/SYFY/index.m3u8
+#EXTINF:0,TBS 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/TBS/index.m3u8
+#EXTINF:0,TCM 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/TCM/index.m3u8
+#EXTINF:0,TEEN NICK 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/TEEN_NICK/index.m3u8
+#EXTINF:0,TELEMUNDO HD 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/TELEMUNDO/index.m3u8
+#EXTINF:0,TLC 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/TLC/index.m3u8
+#EXTINF:0,TNT 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/TNT/index.m3u8
+#EXTINF:0,TNTLA 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
+#EXTINF:0,TNTLA 2 
+#EXTVLCOPT:network-caching=3000
+http://190.108.196.35/live/c2eds/TNTla/HLS_VMX/TNTla.m3u8
+#EXTINF:0,TRAVEL CHANNEL 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/TRAVEL_CHANNEL/index.m3u8
+#EXTINF:0,TRU TV 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/TRU_TV/index.m3u8
+#EXTINF:0,TV LAND 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/TV_LAND/index.m3u8
+#EXTINF:0,TV ONE 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/TV_ONE/index.m3u8
+#EXTINF:0,TVG 
+#EXTVLCOPT:network-caching=3000
+http://bkm100.gttstreamtv.com/TVG/TVG.isml/index.m3u8
+#EXTINF:0,UFC 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/UFC/index.m3u8
+#EXTINF:0,UNIVERSAL KIDS 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/UNIVERSAL_KIDS/index.m3u8
+#EXTINF:0,USA 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/USA/HLS/index.m3u8
+#EXTINF:0,USA NETWORK 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/USA_NETWORK/index.m3u8
+#EXTINF:0,VH1 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/VH1/index.m3u8
+#EXTINF:0,VICELAND 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/VICELAND/index.m3u8
+#EXTINF:0,WE TV 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/WE_TV/index.m3u8
+#EXTINF:0,WGN AMERICA 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/WGN_AMERICA/index.m3u8
+#EXTINF:0,WILLOW 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/Willow/HLS/index.m3u8
+#EXTINF:0,WWE 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/WWE/index.m3u8
+#EXTINF:0,Willow HD 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/WILLOW/index.m3u8
+#EXTINF:0,ZEE CINEMA HD 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/ZEE_CINEMA/index.m3u8
+#EXTINF:0,ZEE TV 
+#EXTVLCOPT:network-caching=3000
+https://16live00.akamaized.net/ZEE_TV/index.m3u8
