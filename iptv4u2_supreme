@@ -1,331 +1,221 @@
 #EXTM3U
 #EXTINF:0,ABC-2 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:ABC.smil/playlist.m3u8
 #EXTINF:35,A&E
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m3u8
 #EXTINF:20,AFROBEATS 24/7
-#EXTVLCOPT:network-caching=1000
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:0,AL JAZEERA 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:ALJAZEERA.smil/playlist.m3u8
 #EXTINF:0,Al JAZEERA English
-#EXTVLCOPT:network-caching=1000
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0,ANIMAL PLANET
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
 #EXTINF:0,BBC_WORLD 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:0,BEIN SPORTS HD
-#EXTVLCOPT:network-caching=1000
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1501
 #EXTINF:0,BET 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:0,BET HER
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:0,BOOMERANG
-#EXTVLCOPT:network-caching=1000
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/boomerang.us.m3u8
 #EXTINF:0,BRAVO
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:0,CARTOON NETWORK
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
 #EXTINF:0,CBC 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CBC.smil/playlist.m3u8
 #EXTINF:0,CBS 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:0,CENTRIC 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:0,CINEMAX
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:0,CNBC 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CNBC.smil/playlist.m3u8
 #EXTINF:0,CNN_INTERNATIONAL 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
 #EXTINF:0,COMEDY_CENTRAL 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
 #EXTINF:0,COMET_TV 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:COMET_TV.smil/playlist.m3u8
 #EXTINF:0,COOKING CHANNEL
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
 #EXTINF:0,COZI_TV 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:COZI_TV.smil/playlist.m3u8
 #EXTINF:0,CTV 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CTV.smil/playlist.m3u8
 #EXTINF:0,CW 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CW.smil/playlist.m3u8
 #EXTINF:0,DISCOVERY CHANNEL
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:DISCOVERY.smil/playlist.m3u8
 #EXTINF:0,DISCOVERY TURBO
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
 #EXTINF:0,DISCOVERY_KIDS 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
 #EXTINF:0,DISNEY CHANNEL
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:DISNEY.smil/playlist.m3u8
 #EXTINF:0,DIY 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:DIY.smil/playlist.m3u8
 #EXTINF:0,DW_ENGLISH 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:DW_ENGLISH.smil/playlist.m3u8
 #EXTINF:0,E! ENTERTAINMENT
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:E.smil/playlist.m3u8
 #EXTINF:0,E 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:E.smil/playlist.m3u8
 #EXTINF:0,ESCAPE 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:ESCAPE.smil/playlist.m3u8
 #EXTINF:0,ESPN 1
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:0,ESPN 2
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:0,FLOW SPORTS 
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FLOW_SPORTS.smil/playlist.m3u8
 #EXTINF:0,FLIX
-#EXTVLCOPT:network-caching=1000
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/flix.eastern.us.m3u8
 #EXTINF:0,FLIXX 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:FLIXX.smil/playlist.m3u8
 #EXTINF:0,FOOD_NETWORK 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:FOOD_NETWORK.smil/playlist.m3u8
 #EXTINF:0,FOXSPORTS1-2 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:FOXSPORTS1.smil/playlist.m3u8
 #EXTINF:0,FOXSPORTS2-2 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:FOXSPORTS2.smil/playlist.m3u8
 #EXTINF:0,FOX
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:0,FREEFORM 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:FREEFORM.smil/playlist.m3u8
 #EXTINF:0,FUSE 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:FUSE.smil/playlist.m3u8
 #EXTINF:0,FX 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:FX.smil/playlist.m3u8
 #EXTINF:0,FXX
-#EXTVLCOPT:network-caching=1000
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=17308&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:0,FXM
-#EXTVLCOPT:network-caching=1000
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fx.movie.channel.us.m3u8
 #EXTINF:0,FYI 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:FYI.smil/playlist.m3u8
 #EXTINF:0,GAME SHOW NETWORK
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:GSN.smil/playlist.m3u8
 #EXTINF:0,HBO
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:0,HBO FAMILY
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_FAMILY.smil/playlist.m3u8
 #EXTINF:0,HBO MAX
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:0,HBO PLUS
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_PLUS.smil/playlist.m3u8
 #EXTINF:0,HBO SIGNATURE
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
 #EXTINF:0,HBO XTREME
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
 #EXTINF:0,GO_TV 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:GO_TV.smil/playlist.m3u8
 #EXTINF:0,GRIT 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:GRIT.smil/playlist.m3u8
 #EXTINF:0,HALLMARK 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:HALLMARK.smil/playlist.m3u8
 #EXTINF:0,HALLMARK_MM 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:HALLMARK_MM.smil/playlist.m3u8
 #EXTINF:0,HGPTV 
-#EXTVLCOPT:network-caching=1000
 http://bkm100.gttstreamtv.com/HGPTV/HGPTV.isml/index.m3u8
 #EXTINF:0,HGTV 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:HGTV.smil/playlist.m3u8
 #EXTINF:0,HJTV 
-#EXTVLCOPT:network-caching=1000
 http://bkm100.gttstreamtv.com/HJTV/HJTV.isml/index.m3u8
 #EXTINF:0,HISTORY CHANNEL
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HISTORY.smil/playlist.m3u8
 #EXTINF:0,INVESTIGATION_DISCOVERY 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
 #EXTINF:0,ION 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:ION.smil/playlist.m3u8
 #EXTINF:0,LIFETIME
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:0,LIFETIME-2 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:0,LMN
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m3u8
 #EXTINF:0,ME_TV 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:ME_TV.smil/playlist.m3u8
 #EXTINF:0,MY33 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:MY33.smil/playlist.m3u8
 #EXTINF:0,NBA_TV 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:0,NBC 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
 #EXTINF:0,NCN GUYANA 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:NCN_GUYANA.smil/playlist.m3u8
 #EXTINF:0,NFL
-#EXTVLCOPT:network-caching=1000
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/nfl.network.us.m3u8
 #EXTINF:0,NHKWORLD 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:NHKWORLD.smil/playlist.m3u8
 #EXTINF:0,NICK@NITE
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:NICKELODEON.smil/playlist.m3u8
 #EXTINF:0,NICKELODEON 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:NICKELODEON.smil/playlist.m3u8
 #EXTINF:0,NICK_JR 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:NICK_JR.smil/playlist.m3u8
 #EXTINF:0,OWN 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:OWN.smil/playlist.m3u8
 #EXTINF:0,PARAMOUNT 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:PARAMOUNT.smil/playlist.m3u8
 #EXTINF:0,PBS 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:PBS.smil/playlist.m3u8
 #EXTINF:0,PBS_CREATE 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:PBS_CREATE.smil/playlist.m3u8
 #EXTINF:0,PBS_KIDS 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:PBS_KIDS.smil/playlist.m3u8
 #EXTINF:0,QUEST 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:QUEST.smil/playlist.m3u8
 #EXTINF:0,RT US
-#EXTVLCOPT:network-caching=1000
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:0,RUSH SPORTS 
-#EXTVLCOPT:network-caching=1000
 http://king-tv.net:8080/Jp/Za2EzaGxxp/247617.ts
 #EXTINF:0,SCIENCE 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:SCIENCE.smil/playlist.m3u8
 #EXTINF:0,SHOWTIME
-#EXTVLCOPT:network-caching=1000
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 #EXTINF:0,SPORTS MAX 
-#EXTVLCOPT:network-caching=1000
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110178
 #EXTINF:0,STARZ
-#EXTVLCOPT:network-caching=1000
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9666&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:0,SYFY
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3u8
 #EXTINF:0,TCM 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:TCM.smil/playlist.m3u8
 #EXTINF:0,TENNIS PLUS
-#EXTVLCOPT:network-caching=1000
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109215
 #EXTINF:0,TEEN_NICK 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:TEEN_NICK.smil/playlist.m3u8
 #EXTINF:0,TLC 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:TLC.smil/playlist.m3u8
 #EXTINF:0,TNT 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:0,TRUTV 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:TRUTV.smil/playlist.m3u8
 #EXTINF:0,TV One
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlist.m3u8
 #EXTINF:0,TVG 
-#EXTVLCOPT:network-caching=1000
 http://bkm100.gttstreamtv.com/TVG/TVG.isml/index.m3u8
 #EXTINF:0,UFC FIGHT PASS
-#EXTVLCOPT:network-caching=1000
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=13259&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:0,UNIVISION 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:UNIVISION.smil/playlist.m3u8
 #EXTINF:0,USA NETWORK
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:USA.smil/playlist.m3u8
 #EXTINF:0,USA-2 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:USA.smil/playlist.m3u8
 #EXTINF:0,WARNER TV
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlist.m3u8
 #EXTINF:0,WE_TV 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:WE_TV.smil/playlist.m3u8
 #EXTINF:0,WGN 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:WGN.smil/playlist.m3u8
 #EXTINF:0,WILLOW CRICKET
-#EXTVLCOPT:network-caching=1000
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:0,WILLOW-2 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:0,WPIX 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:WPIX.smil/playlist.m3u8
